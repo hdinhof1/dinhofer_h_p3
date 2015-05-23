@@ -156,7 +156,7 @@ int main(int argc, char const *argv[])
 	string line;
 	ifstream in (argv[2] ); // market-price-file
 	ofstream outf (argv[6], ios::app );
-    if (!outf.is_open() || !in.is_open() || argc != 8)  { cout << "error opening input /output files please check again " << argv[2] << " " << argv[4] << endl; exit(0); }
+    if (!outf.is_open() || !in.is_open() || argc != 8)  { cout << "error opening input /output files please check again " << argv[2] << " " << argv[4] << endl; exit(0) }
 	bool pos = true;
 	int totalMPF = 0;
 	vector <Card> data; //Card t("Tester 0"); data.push_back(t);

@@ -202,7 +202,7 @@ vector<Card> Card::computeMaxProfit (vector<Card> I, int W)
 		}
 		//Utilizes next permutation function to go through all possible subsets, brute force
 
-		while (next_permutation(I.begin(), I.end()  ))
+    //	while (next_permutation(I.begin(), I.end()  ))
 		{
 			sum = currentProfit = 0;
 			for (int i = 0; i < I.size(); i++ ) {

@@ -1,0 +1,10 @@
+Player2 val:60 profit: 50 weight:10 ratio: 5 
+Player0 val:42 profit: 40 weight:2 ratio: 20 
+Player2 val:60 profit: 50 weight:10 ratio: 5 
+Player0 val:42 profit: 40 weight:2 ratio: 20 
+Player2 val:60 profit: 50 weight:10 ratio: 5 
+Player0 val:42 profit: 40 weight:2 ratio: 20 
+Player2 val:60 profit: 50 weight:10 ratio: 5 
+Player0 val:42 profit: 40 weight:2 ratio: 20 
+Player2 val:60 profit: 50 weight:10 ratio: 5 
+Player0 val:42 profit: 40 weight:2 ratio: 20 
